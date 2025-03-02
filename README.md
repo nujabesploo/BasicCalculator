@@ -25,7 +25,7 @@ The **Basic Calculator** is a straightforward **Java-based console application**
 
 ## 📸 Screenshot  
 
-![Basic Calculator](https://github.com/user-attachments/assets/0113b4de-2aa0-47c5-8894-78aed37021c6)  
+![Basic Calculator] 
 
 ---
 
